@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1652403276,,"wq"
+|2,0,1652406574,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,33 @@
 # Registers:
 
 # File marks:
-'0  16  0  ~/index.html
-|4,48,16,0,1652403276,"~/index.html"
+'0  16  0  ~/lubbock/index.html
+|4,48,16,0,1652406574,"~/lubbock/index.html"
+'1  16  0  ~/index.html
+|4,49,16,0,1652403276,"~/index.html"
 
 # Jumplist (newest first):
+-'  16  0  ~/lubbock/index.html
+|4,39,16,0,1652406574,"~/lubbock/index.html"
+-'  1  0  ~/lubbock/index.html
+|4,39,1,0,1652406538,"~/lubbock/index.html"
+-'  16  0  ~/index.html
+|4,39,16,0,1652403276,"~/index.html"
 -'  16  0  ~/index.html
 |4,39,16,0,1652403276,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1652403077,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1652403077,"~/index.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/lubbock/index.html
+	*	1652406571	0
+	"	16	0
+	^	16	0
+	.	15	7
+	+	15	7
 
 > ~/index.html
 	*	1652403243	0
